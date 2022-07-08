@@ -1,0 +1,63 @@
+/* class kullanımı */
+/* id kullanmı --> #id-bilgi { */
+
+.text-aqua {
+    color:aqua
+
+}
+
+.fs-10px {
+    font-size: 10px;
+}
+
+.fs-20px {
+    font-size: 20px;
+}
+
+.fs-30px {
+    font-size: 30px;
+}
+
+#h2imp {
+    color:blue
+}
+
+h1, h2{
+    font-style: italic;
+}
+
+.table {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 15px;
+}
+
+th, td {
+    border-style: solid;
+}
+
+.container {
+    display: flex;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    border: 2px solid;
+    background-color: grey;
+    font-size: 18px;
+    width: 100%;
+    transition: 1s all
+}
+
+button:hover {
+    background-color: gainsboro;
+}
+
+hr {
+    border: solid;
+}
+h3 {
+    color:blueviolet;
+}
